@@ -4,5 +4,5 @@
 
 # Language and tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,expressjs,nextjs,mongodb,flutter,java,bootstrap,visualstudio,androidstudio,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,expressjs,nextjs,mongodb,flutter,java,bootstrap,tailwind,visualstudio,androidstudio,firebase)](https://skillicons.dev)
 
