@@ -1,6 +1,6 @@
 # Hey-there :wave:
 
-:fast_forward: I am a software engineering interested in programming applications with Front-end Developers, UI/UX, React, Java Mobile, Sql. I am also interested in Agile management and scrum and I love solve problem and self-learning. :computer:
+:fast_forward: I am a UI/UX interested in programming applications with Front-end Developers, UI/UX, React, Java Mobile, Sql. I am also interested in Agile management and scrum and I love solve problem and self-learning. :computer:
 
 # Language and tools
 
